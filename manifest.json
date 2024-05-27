@@ -1,10 +1,9 @@
 {
     "id": "04bcbd51-85b7-4d75-948e-60410f84c61a",
-    "authors": [
-        "viper132 - Made with AMP Config Generator"
-    ],
-    "origin": "https://github.com/viper132 - Made with AMP Config Generator/AMPTemplates.git",
-    "url": "https://github.com/viper132 - Made with AMP Config Generator/AMPTemplates",
+    "authors": ["viper132"],
+    "origin": "https://github.com/viper132/amp-fs22.git",
+    "url": "https://github.com/viper132/amp-fs22",
     "imagefile": "",
-    "prefix": "viper132 - Made with AMP Config Generator"
+    "prefix": "",
+    "repotype":"AppTemplates"
 }
