@@ -1,0 +1,15 @@
+[
+    {
+        "DisplayName": "Port",
+        "Category": "Web GUI",
+        "Description": "set admin website port",
+        "Keywords": "port",
+        "FieldName": "webserver",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "webserver",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "8080",
+        "EnumValues": {}
+    }
+]
